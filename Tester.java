@@ -41,6 +41,10 @@ public class Tester
         System.out.println("---------------------------------------");
     }
 
+    public static void MixedResults() {
+        System.out.println("PROJECT 5:");
+    }
+        
     public static void NameReversal() {
         Scanner userInput = new Scanner(System.in);
 
