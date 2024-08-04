@@ -19,7 +19,7 @@ public class Tester
     }
 
     public static void NameThatCelebrity() {
-        System.out.println("PROJECT 2:");
+        System.out.println("PROJECT 3:");
         String celebrity1 = "Allan Alda";
         String celebrity2 = "John Wayne";
         String celebrity3 = "Gregory Peck";
