@@ -6,7 +6,7 @@ class Tester {
         System.out.print("Enter an integer: ");
         int userInt = userInput.nextInt();
         
-        if((userint % 2) == 0) {
+        if((userInt % 2) == 0) {
             System.out.println("The interger " + userInt + " is even");
         }
         else {
